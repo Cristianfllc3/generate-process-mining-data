@@ -1,0 +1,10 @@
+# .gitignore
+
+recyclebin/
+.vscode/
+__pycache__/
+output/
+input/
+
+~$*
+.~lock.*

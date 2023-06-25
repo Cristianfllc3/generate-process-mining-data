@@ -1,0 +1,2 @@
+replace in outputfile all whitespace van input file met _underscore_
+bij runnen in git bash print ie niet tussentijds hoever hij al is
