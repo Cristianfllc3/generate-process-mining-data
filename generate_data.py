@@ -17,7 +17,7 @@ from uuid import uuid4
 
 
 # Use these constants if run with VS Code
-INPUT_PATH = "D:/PROYECTOS/generate-process-mining-data/Example_process.xlsx"
+INPUT_PATH = "D:/PROYECTOS/generate-process-mining-data/data/example/Example_process.xlsx"
 APPROX_ROWS = 100
 DURATION_UNIT = "minutes"
 START = "<Start>"
